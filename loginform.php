@@ -75,6 +75,6 @@ Password:<input type="password" name="password" style="font-size:25px;background
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;">
+    font-size: 20px;">
 </form></div>
 </body>
